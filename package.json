@@ -33,7 +33,7 @@
     "coveralls": "^3.0.6",
     "istanbul": "^0.4.2",
     "mocha": "^6.0.0",
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.6.10",
     "should": "^13.1.0"
   },
   "thanks": "https://flattr.com/@mblarsen"
